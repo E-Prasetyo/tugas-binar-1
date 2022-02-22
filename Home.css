@@ -1,0 +1,19 @@
+html,
+body {
+  min-height: 100%;
+}
+
+.image-size{
+  max-width: 17rem;
+  max-height: 17rem;
+}
+
+.font-size{
+  font-size: 1.5rem;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.qoute-style{
+  font-family: 'Times New Roman', Times, serif;
+
+}
